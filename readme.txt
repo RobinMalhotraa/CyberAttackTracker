@@ -1,2 +1,2 @@
-Documentation available @ http://pentbox.net/
+A low interaction Honeypot 
 
